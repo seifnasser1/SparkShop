@@ -9,8 +9,8 @@
 <body>
     <nav class="navbar">
         <div class="navbar-left">
-            <img src="img/logo.jpg" alt="Logo">
-            <span>BA SPORTS</span>
+            <img src="img/SparkPadel.jpg" alt="Logo">
+            <span>Spark Padel</span>
         </div>
         <div class="navbar-right">
             <ul>
